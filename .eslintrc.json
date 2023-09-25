@@ -20,7 +20,8 @@
     "spaced-comment": "error",
     "quotes": ["error ", "single"],
     "no-duplicate-imports": "error",
-    "no-console": ["warn", { "allow": ["warn", "error", "info"] }]
+    "no-console": ["warn", { "allow": ["warn", "error", "info"] }],
+    "linebreak-style": ["error", "unix"]
   },
   "settings": {
     "import/resolver": {
