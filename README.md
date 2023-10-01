@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
-- **Boilerplate**
-  <br/>
-  Vite 프로젝트 초기 설정(React + Typescript + eslint)
+# React Pomodoro App
+<br/>
+- **Pratice Recoil**<br/>
+- **Practice framer-emotion**
