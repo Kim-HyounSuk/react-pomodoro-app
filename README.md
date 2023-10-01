@@ -1,4 +1,4 @@
 # React Pomodoro App
 <br/>
-- **Pratice Recoil**<br/>
-- **Practice framer-emotion**
+- Pratice Recoil
+- Practice framer-emotion
